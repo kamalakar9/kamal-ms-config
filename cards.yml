@@ -1,0 +1,11 @@
+build:
+   version: '3.0'
+
+cards:
+   message: Welcome to KRBank cards related local Dev Env APIs
+   contactDetails:
+      name: John-Developer
+      email: john@developer.com
+   onCallSupport:
+   - 123456
+   - 789123

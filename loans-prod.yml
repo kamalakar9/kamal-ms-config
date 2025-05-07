@@ -1,0 +1,10 @@
+build:
+   version: "1.0" 
+loans:
+   message: "Welcome to KRBank loans related local Prod APIs"
+   contactDetails:
+      name: "John-prod"
+      email: "john@prod.com"
+   onCallSupport:
+      - 123456
+      - 789123

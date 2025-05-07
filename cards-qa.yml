@@ -1,0 +1,10 @@
+build:
+   version: "2.0"
+cards:
+   message: "Welcome to KRBank cards related local QA APIs"
+   contactDetails:
+      name: "John-QA"
+      email: "john@qa.com"
+   onCallSupport:
+      - 123456
+      - 789123

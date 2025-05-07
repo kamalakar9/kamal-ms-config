@@ -1,0 +1,10 @@
+build:
+   version: "1.0" 
+accounts:
+   message: "Welcome to KRBank accounts related local Prods APIs"
+   contactDetails:
+      name: "John-prod"
+      email: "john@prod.com"
+   onCallSupport:
+      - 123456
+      - 789123
