@@ -4,7 +4,7 @@ accounts:
    message: "Welcome to KRBank accounts related local Prods APIs"
    contactDetails:
       name: "John-prod"
-      email: "john@prod.com"
+      email: "56b17bda678d2560765cc4270b0d95bcf455ab13392b425a4d6c064516602b48"
    onCallSupport:
       - 123456
       - 789123
