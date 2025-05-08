@@ -1,7 +1,7 @@
 build:
    version: "1.0" 
 cards:
-   message: "Welcome to KRBank cards related local Production APIs"
+   message: "Welcome to KRBank cards related local Prod APIs"
    contactDetails:
       name: "John-prod"
       email: "john@prod.com"
