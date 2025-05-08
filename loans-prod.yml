@@ -1,7 +1,7 @@
 build:
    version: "1.0" 
 loans:
-   message: "Welcome to KRBank loans related local Prod APIs"
+   message: "Welcome to KRBank loans related local Production APIs"
    contactDetails:
       name: "John-prod"
       email: "john@prod.com"
